@@ -7,6 +7,12 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/wind
 ;2022-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-x86_19ac6e71c2630f1fe80d78fcd7b2ea72350a5e27.msu
 
+;2022-01 适用于 Windows 8.1 基于 x64 系统的仅安全质量更新
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x64_9d5677ca5e865931bc908b13139bf266ccbf2922.msu
+
+;2022-01 适用于 Windows 8.1 基于 x32 系统的仅安全质量更新
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x86_0abd994a738f52e7afa8b2f59964c49fa3f9828e.msu
+
 ;2022-01 适用于 Windows 10 1809 基于 x64 系统的累计更新
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009557-x64_ddc44e498763e16196d8a19dbf4ae54078d31c46.msu
 
@@ -23,4 +29,7 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/wind
 
 
 ;2022- 适用于 Windows 10 1809 基于 x32 位 系统的服务堆栈更新
+
+
+
 
